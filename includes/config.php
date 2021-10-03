@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
 define('DB_HOST','localhost');
-define('DB_USER','dobrin_r');
-define('DB_PASS','doggy12345');
+define('DB_USER','******');
+define('DB_PASS','*******');
 define('DB_NAME','srms');
 // Establish database connection.
 try
