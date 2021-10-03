@@ -1,6 +1,6 @@
 <?php
 $dbuser="root";
-$dbpass="doggy12345";
+$dbpass="*******";
 $host="localhost";
 $dbname = "srms";
 mysql_connect($dbhost,$dbuser,$dbpass) or die('cannot connect to the server'); 
