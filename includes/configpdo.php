@@ -1,6 +1,6 @@
 <?php
-$dbuser="dobrin_r";
-$dbpass="doggy12345";
+$dbuser="********";
+$dbpass="*********";
 $host="localhost";
 $dbname = "srms";
 $mysqli = new mysqli($host, $dbuser, $dbpass, $dbname);
